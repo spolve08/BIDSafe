@@ -4,6 +4,5 @@ APSS2BIDS — A self-contained desktop tool (tkinter + dcm2niix) that converts c
 # GUI
 A very simple GUI. Fewer options, more functions under the hood: the app is designed to ease the surgical staff workload.
 ![Preview of GUI](/assets/BIDSafe_preview.png)
-
-Delivering and installing the app at the hospital:
+On-site deployment at a partner hospital: installed the application in the production environment and trained end users across clinical and technical teams.
 ![Instructing the surgeon's staff on using the software](/assets/linkedin_post+asuit.png)
